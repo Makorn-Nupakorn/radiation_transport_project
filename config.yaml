@@ -1,0 +1,5 @@
+config:
+    radius: 50
+    delta_radius_division: 10
+    azimuth_angle_division: 12
+    rotation_angle_division: 9
